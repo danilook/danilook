@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Danilo </h1>
-<h3 align="center">I'm FullStack JavaScript Developer</h3>
+<h3 align="center">I'm FullStack Developer</h3>
 
 <img align='right' src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="230">
 
