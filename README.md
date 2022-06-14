@@ -4,19 +4,19 @@
 <img align='right' src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="230">
 
 
-- 💬 Ask me about: *React, css and web development*
+- 💬 Ask me about: *Python and web development*
 
-- 🌱 I’m currently learning: *TypeScript & Redux*
+- 🌱 I’m currently learning: *React*
 
 - 📫 How to reach me: *daniloleon15@gmail.com*
 
-- ⚡ Fun fact: *I like to draw, travel, sing and play guitar*
+- ⚡ Fun fact: *I like to travel by motorcycle and take pictures*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/danilo-facundo-leon-111792222/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gabriel-britez/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/gabriel.britez.315" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/gabriel.britez.315" height="30" width="40" /></a>
-<a href="https://instagram.com/gabriel_briitez/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/gabriel_briitez/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/danilo-leon/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/danilo-leon/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/daniloo.leeon" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/daniloo.leeon" height="30" width="40" /></a>
+<a href="https://www.instagram.com/daniloleonn/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/daniloleonn/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
